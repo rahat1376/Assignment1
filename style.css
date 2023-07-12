@@ -1,0 +1,198 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+/*header style*/
+header{
+    background-color: #E554731A;
+    display: flex;
+}
+
+/*Nav Style*/
+.banner{
+    max-width: 400px;
+}
+nav{
+    padding: 30px 30px 0px 300px;
+    display: flex;
+    align-items: center;
+}
+.head1{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.head2{
+    font-size: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+}
+.btn-pink{
+    background-color: #E55473;
+    border-radius: 5px;
+    color: #FFF;
+    font-size: 15px;
+    border: 0;
+    font-weight: 700px;
+    padding: 10px 25px;
+}
+.pngwing10{
+    width: 334px;
+    height: 426px;
+}
+/*Main Style*/
+
+.headline{
+    text-align: center;
+    padding-top: 60px;
+}
+.headline1{
+    font-size: 20px;
+    font-weight: 800;
+}
+.headline2{
+    font-size: 10px;
+    font-weight: 400;
+}
+.flower3{
+    background-color: #FFF;
+    text-align: center;
+}
+.pngwing6{
+    background-color: rgba(167, 33, 98, 0.15);
+    border: 5px;
+    border-radius: 300px 300px 0px 0px;
+    width: 164px;
+    height: 238px;
+    padding: 117px 47px 0px 47px;
+}
+.pngwing5{
+    background-color: rgba(5, 151, 160, 0.15);
+    border: 5px;
+    border-radius: 300px 300px 0px 0px;
+    width: 164px;
+    height: 238px;
+    padding: 117px 47px 0px 47px;
+}
+.pngwing7{
+    background-color: rgba(71, 125, 17, 0.15);
+    border: 5px;
+    border-radius: 300px 300px 0px 0px;
+    width: 164px;
+    height: 238px;
+    padding: 117px 47px 0px 47px;
+}
+.flower-name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 350px;
+    color: #272727;
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.div1{
+    background-color: rgba(229, 84, 115, 0.05);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.desc{
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.des1{
+    font-size: 20px;
+    font-weight: 800;
+}
+.pink-text{
+    color: #E55473;
+}
+.des2{
+    font-size: 10px;
+    font-weight: 100;
+}
+.tob{
+    width: 200px;
+    height: 270px;
+    padding-left: 100px;
+    
+}
+.flower4{
+    text-align: center;
+}
+.insta{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+}
+.insta-dec{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 200;
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.last{
+    padding-top: 50px;
+    padding-right: 630px;
+}
+#search{
+    width: 350px;
+    height: 30px;
+}
+.bg-img{
+    background-image: url('Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-size: 800px;
+    width: 1440px;
+    height: 449px;
+    margin-top: 50px;
+    margin-left: 280px;
+}
+.last-head{
+    font-size: 20px;
+    font-weight: 800;
+}
+.last-dec{
+    font-size: 10px;
+    font-weight: 400;
+}
+/*Footer Style*/
+footer{
+    background-color: #111010;
+    weigth:100%;
+    height: 300px;
+}
+.footer-sec{
+    padding-top: 80px;
+}
+.foot-head{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+.clr-shop{
+    color: #E55473;
+}
+.foot-p1{
+    color: #FFFFFFE5;
+    text-align: center;
+    font-size: 9px;
+    font-weight: 400;
+}
+.foot-p2{
+    color: #FFFFFF66;
+    text-align: center;
+    font-size: 8px;
+    font-weight: 400;
+}
